@@ -1,7 +1,10 @@
 data/*
 .idea/
-.png
-.jpg
+*.png
+*.jpg
+output/
+models/
+lib/pycocotools_temp/
 
 # READ THIS BEFORE YOU REFACTOR ME
 #
